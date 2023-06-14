@@ -1,11 +1,21 @@
 # Project1418
-Sparkle Spa
+Glory Luxe
 
 This is a web based application developed for health related based website in india
 
 ### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 **Project Link https://solomon1418.github.io/Project1418/+
+
+
+
+
+
+** project demo video link ** -https://youtu.be/S4M5SIcDZz0
+
+
+
+
 
 Azure Technologies used for this project
 ~Static Web App
