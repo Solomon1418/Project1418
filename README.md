@@ -1,5 +1,5 @@
 # Project1418
-Glory Luxe
+Sparkle Spa
 
 This is a web based application developed for health related based website in india
 
